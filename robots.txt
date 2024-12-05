@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://roborocksuper.github.io/sitemap.xml
